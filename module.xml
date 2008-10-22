@@ -1,0 +1,20 @@
+<module>
+	<rawname>vmailadmin</rawname>
+	<name>Voicemail Admin</name>
+	<description>Allows voicemail administration independent of user administration.</description>
+	<version>2.5.0</version>
+	<type>setup</type>
+	<category>Module</category>
+	<menuitems>
+		<vmailadmin>Voicemail Admin</vmailadmin>
+	</menuitems>
+	<depends>
+		<version>ge2.4</version>
+	</depends>
+	<changelog>
+		*2.5* First release
+	</changelog>
+	<location></location>
+	<info></info>
+	<md5sum></md5sum>
+</module>

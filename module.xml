@@ -22,7 +22,7 @@
 		*2.5.1* Unreleased - Improved interface and performance; only abandoned greetings at least 1 day old can be deleted.
 		*2.5* First release
 	</changelog>
-	<location>release/contributed_modules/vmailadmin-2.5.7.1.tgz</location>
+	<location>contributed_modules/release/vmailadmin-2.5.7.1.tgz</location>
 	<info></info>
-	<md5sum>f1b87c8b0e59057bba8aeede2777b2e1</md5sum>
+	<md5sum>5348d50411f7fb485a735cb851d7fe8e</md5sum>
 </module>

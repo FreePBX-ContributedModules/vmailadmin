@@ -4,7 +4,7 @@
 	<description>Allows voicemail administration independent of user administration.</description>
 	<version>2.5.7.1</version>
 	<type>setup</type>
-	<category>Module</category>
+	<category>Third Party Addon</category>
 	<menuitems>
 		<vmailadmin>Voicemail Admin</vmailadmin>
 	</menuitems>

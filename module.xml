@@ -2,7 +2,7 @@
 	<rawname>vmailadmin</rawname>
 	<name>Voicemail Admin</name>
 	<description>Allows voicemail administration independent of user administration.</description>
-	<version>2.5.7</version>
+	<version>2.5.7.1</version>
 	<type>setup</type>
 	<category>Module</category>
 	<menuitems>
@@ -12,6 +12,7 @@
 		<version>ge2.4</version>
 	</depends>
 	<changelog>
+		*2.5.7.1* Re-Publish to get location and md5sum info update
 		*2.5.7* Performance tuning, consolidated some looping constructs.
 		*2.5.6* Unreleased - Title on each page changed to indicate "Voicemail Administration". Bug fixed for modification of (basic) account settings (attach/saycid/envelope/delete options are now correctly handled).
 		*2.5.5* Unreleased - Added javascript to auto-scroll right-hand menu list to currently-viewed account; removed unneeded checks of voicemail context; prefixed all function names with "vmailadmin_"; new check for extensions vs. deviceanduser mode so that links for disabled accounts go to extensions or users page (depending on the mode)
@@ -21,7 +22,7 @@
 		*2.5.1* Unreleased - Improved interface and performance; only abandoned greetings at least 1 day old can be deleted.
 		*2.5* First release
 	</changelog>
-	<location></location>
+	<location>release/contributed_modules/vmailadmin-2.5.7.1.tgz</location>
 	<info></info>
-	<md5sum></md5sum>
+	<md5sum>f1b87c8b0e59057bba8aeede2777b2e1</md5sum>
 </module>
